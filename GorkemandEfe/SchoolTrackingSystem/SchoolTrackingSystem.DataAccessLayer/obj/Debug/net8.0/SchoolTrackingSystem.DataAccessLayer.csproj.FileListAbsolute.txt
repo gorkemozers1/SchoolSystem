@@ -1,0 +1,34 @@
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.deps.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.runtimeconfig.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.AssemblyInfo.cs
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.CopyComplete
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.genruntimeconfig.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.DataAccessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.deps.json
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.runtimeconfig.json
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.AssemblyReference.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.AssemblyInfoInputs.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.AssemblyInfo.cs
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.csproj.CopyComplete
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.DataAccessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.genruntimeconfig.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.DataAccessLayer.dll

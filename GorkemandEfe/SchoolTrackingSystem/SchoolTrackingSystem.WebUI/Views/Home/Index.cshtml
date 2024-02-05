@@ -1,0 +1,66 @@
+﻿@model IEnumerable<SchoolTrackingSystem.EntityLayer.Model.Students>
+
+@{
+    ViewData["Title"] = "Sınıf Öğrenci Listesi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<p>
+    <a href="/sinif-ogrenci-ekle" class="btn btn-success">Yeni Öğrenci Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ad Soyad
+            </th>
+            <th>
+                Sınıf
+            </th>
+            <th>
+                Okul Numarası
+            </th>
+            <th>
+                E-Posta
+            </th>
+          
+            <th>
+                Aktif Durumu
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameSurname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Classroom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SchoolNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+                @if (item.IsActive == true) 
+                {
+                    <td>
+                        Aktif
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        Pasif
+                    </td>
+                }
+            <td>
+                <a href="/sinif-ogrenci-guncelle/@item.ID" class="btn btn-primary">Güncelle</a> |
+                <a href="/sinif-ogrenci-sil/@item.ID" class="btn btn-danger">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

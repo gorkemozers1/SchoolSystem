@@ -1,0 +1,34 @@
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.deps.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.AssemblyInfo.cs
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.CopyComplete
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.BusinessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.BusinessLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.runtimeconfig.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.genruntimeconfig.cache
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.deps.json
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.runtimeconfig.json
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.AssemblyReference.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.AssemblyInfoInputs.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.AssemblyInfo.cs
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.csproj.CopyComplete
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.BusinessLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.pdb
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\SchoolTrackingSystem.BusinessLayer.genruntimeconfig.cache
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.BusinessLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.BusinessLayer.dll

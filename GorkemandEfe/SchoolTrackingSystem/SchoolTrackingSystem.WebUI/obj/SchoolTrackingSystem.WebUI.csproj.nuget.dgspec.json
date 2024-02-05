@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj",
+        "projectName": "SchoolTrackingSystem.BusinessLayer",
+        "projectPath": "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Kübra Nur\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kübra Nur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj",
+        "projectName": "SchoolTrackingSystem.DataAccessLayer",
+        "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Kübra Nur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kübra Nur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj",
+        "projectName": "SchoolTrackingSystem.EntityLayer",
+        "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\SchoolTrackingSystem.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Kübra Nur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kübra Nur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
+        "projectName": "SchoolTrackingSystem.WebUI",
+        "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Kübra Nur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kübra Nur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj": {
+                "projectPath": "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj"
+              },
+              "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

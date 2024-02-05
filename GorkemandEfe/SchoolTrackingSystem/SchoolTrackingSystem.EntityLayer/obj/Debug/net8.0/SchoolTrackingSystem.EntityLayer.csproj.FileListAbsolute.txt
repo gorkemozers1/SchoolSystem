@@ -1,0 +1,28 @@
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.deps.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.runtimeconfig.json
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.AssemblyInfo.cs
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.genruntimeconfig.cache
+C:\Users\fnsss\Documents\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.EntityLayer.dll
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.deps.json
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.runtimeconfig.json
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\bin\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.csproj.AssemblyReference.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.AssemblyInfoInputs.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.AssemblyInfo.cs
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.csproj.CoreCompileInputs.cache
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.EntityLayer.dll
+c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.pdb
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\SchoolTrackingSystem.EntityLayer.genruntimeconfig.cache
+C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.EntityLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.EntityLayer.dll
