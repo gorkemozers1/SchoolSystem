@@ -532,3 +532,6 @@ c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSyst
 c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\SchoolTrackingSystem.WebUI.pdb
 C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\SchoolTrackingSystem.WebUI.genruntimeconfig.cache
 C:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\ref\SchoolTrackingSystem.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\SchoolTrackingSystem.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\refint\SchoolTrackingSystem.WebUI.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.WebUI\obj\Debug\net8.0\SchoolTrackingSystem.WebUI.pdb

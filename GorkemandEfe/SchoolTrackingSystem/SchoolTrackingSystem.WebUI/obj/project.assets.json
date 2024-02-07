@@ -2875,50 +2875,6 @@
             "rid": "win"
           }
         }
-      },
-      "SchoolTrackingSystem.BusinessLayer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
-          "SchoolTrackingSystem.EntityLayer": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SchoolTrackingSystem.BusinessLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SchoolTrackingSystem.BusinessLayer.dll": {}
-        }
-      },
-      "SchoolTrackingSystem.DataAccessLayer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
-          "SchoolTrackingSystem.EntityLayer": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SchoolTrackingSystem.DataAccessLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SchoolTrackingSystem.DataAccessLayer.dll": {}
-        }
-      },
-      "SchoolTrackingSystem.EntityLayer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1"
-        },
-        "compile": {
-          "bin/placeholder/SchoolTrackingSystem.EntityLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SchoolTrackingSystem.EntityLayer.dll": {}
-        }
       }
     }
   },
@@ -8026,64 +7982,51 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "SchoolTrackingSystem.BusinessLayer/1.0.0": {
-      "type": "project",
-      "path": "../SchoolTrackingSystem.BusinessLayer/SchoolTrackingSystem.BusinessLayer.csproj",
-      "msbuildProject": "../SchoolTrackingSystem.BusinessLayer/SchoolTrackingSystem.BusinessLayer.csproj"
-    },
-    "SchoolTrackingSystem.DataAccessLayer/1.0.0": {
-      "type": "project",
-      "path": "../SchoolTrackingSystem.DataAccessLayer/SchoolTrackingSystem.DataAccessLayer.csproj",
-      "msbuildProject": "../SchoolTrackingSystem.DataAccessLayer/SchoolTrackingSystem.DataAccessLayer.csproj"
-    },
-    "SchoolTrackingSystem.EntityLayer/1.0.0": {
-      "type": "project",
-      "path": "../SchoolTrackingSystem.EntityLayer/SchoolTrackingSystem.EntityLayer.csproj",
-      "msbuildProject": "../SchoolTrackingSystem.EntityLayer/SchoolTrackingSystem.EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj",
+      "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj",
       "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 8.0.1",
       "Microsoft.EntityFrameworkCore >= 8.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.1",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.0",
-      "SchoolTrackingSystem.BusinessLayer >= 1.0.0",
-      "SchoolTrackingSystem.DataAccessLayer >= 1.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kübra Nur\\.nuget\\packages\\": {}
+    "C:\\Users\\gorke\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
       "projectName": "SchoolTrackingSystem.WebUI",
-      "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
-      "packagesPath": "C:\\Users\\Kübra Nur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\obj\\",
+      "projectPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\SchoolTrackingSystem.WebUI.csproj",
+      "packagesPath": "C:\\Users\\gorke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kübra Nur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gorke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj": {
-              "projectPath": "c:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj"
+            "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj"
             },
-            "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Kübra Nur\\Desktop\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj"
+            "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj"
             }
           }
         }
@@ -8143,5 +8086,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj' için proje bilgileri bulunamıyor. Visual Studio kullanıyorsanız, bunun nedeni projenin yüklenmemiş veya geçerli çözümün bir parçası olmaması olabilir. Komut satırından bir geri yükleme işlemi çalıştırın. Aksi takdirde proje dosyası geçersiz olabilir veya geri yükleme için gereken hedefler eksik olabilir.",
+      "libraryId": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.BusinessLayer\\SchoolTrackingSystem.BusinessLayer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj' için proje bilgileri bulunamıyor. Visual Studio kullanıyorsanız, bunun nedeni projenin yüklenmemiş veya geçerli çözümün bir parçası olmaması olabilir. Komut satırından bir geri yükleme işlemi çalıştırın. Aksi takdirde proje dosyası geçersiz olabilir veya geri yükleme için gereken hedefler eksik olabilir.",
+      "libraryId": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\GorkemandEfe\\SchoolTrackingSystem\\SchoolTrackingSystem.DataAccessLayer\\SchoolTrackingSystem.DataAccessLayer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

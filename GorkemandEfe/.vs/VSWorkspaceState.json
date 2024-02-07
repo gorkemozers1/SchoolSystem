@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SchoolTrackingSystem"
+    "\\SchoolTrackingSystem",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\Properties",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\js",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\lib",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\lib\\bootstrap",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\lib\\bootstrap\\dist",
+    "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js"
   ],
+  "SelectedNode": "\\SchoolTrackingSystem\\SchoolTrackingSystem.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
   "PreviewInSolutionExplorer": false
 }

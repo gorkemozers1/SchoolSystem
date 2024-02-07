@@ -32,3 +32,6 @@ c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSyst
 c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
 c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.genruntimeconfig.cache
 c:\Users\Kübra Nur\Desktop\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\ref\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\refint\SchoolTrackingSystem.DataAccessLayer.dll
+C:\Users\gorke\OneDrive\Masaüstü\GorkemandEfe\SchoolTrackingSystem\SchoolTrackingSystem.DataAccessLayer\obj\Debug\net8.0\SchoolTrackingSystem.DataAccessLayer.pdb
